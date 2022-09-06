@@ -1,0 +1,39 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>resources/img/blue_selected.png</file>
+        <file>resources/img/blue_turn.png</file>
+        <file>resources/img/button_play.png</file>
+        <file>resources/img/gameOver4Equal.png</file>
+        <file>resources/img/gameOverBlue.png</file>
+        <file>resources/img/gameOverEqual.png</file>
+        <file>resources/img/gameOverGreen.png</file>
+        <file>resources/img/gameOverRed.png</file>
+        <file>resources/img/gameOverYellow.png</file>
+        <file>resources/img/green_pion.png</file>
+        <file>resources/img/green_selected.png</file>
+        <file>resources/img/green_turn.png</file>
+        <file>resources/img/home_bg.png</file>
+        <file>resources/img/options_bg.png</file>
+        <file>resources/img/options_icon.png</file>
+        <file>resources/img/pion.png</file>
+        <file>resources/img/pion_selected.png</file>
+        <file>resources/img/pion1.png</file>
+        <file>resources/img/pion2.png</file>
+        <file>resources/img/red_selected.png</file>
+        <file>resources/img/red_turn.png</file>
+        <file>resources/img/stop_icon.png</file>
+        <file>resources/img/yellow_pion.png</file>
+        <file>resources/img/yellow_selected.png</file>
+        <file>resources/img/yellow_turn.png</file>
+        <file>resources/img/icon.png</file>
+    </qresource>
+    <qresource prefix="/sounds">
+        <file>resources/sounds/woosh1.mp3</file>
+        <file>resources/sounds/woosh2.mp3</file>
+        <file>resources/sounds/woosh3.mp3</file>
+    </qresource>
+    <qresource prefix="/music">
+        <file>resources/sounds/bgsound1.mp3</file>
+        <file>resources/sounds/bgsound2.mp3</file>
+    </qresource>
+</RCC>
